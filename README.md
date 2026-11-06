@@ -5,6 +5,7 @@ Give your AI agent a safe Windows reinstall tool. BackToWin ships as an MCP serv
 BackToWin desktop app, never by the agent.
 
 - Official site: https://backtowin.net
+- Product & Windows app downloads: https://github.com/weib321/backtowin
 - Install guide: see [README.txt](README.txt) inside the release package, or download the zip from
   [Releases](https://github.com/weib321/backtowin-mcp/releases/latest)
 - Free trial: 1 reinstall (in-app activation). Paid: $6.9 for 1, $9.9 for 3 —
