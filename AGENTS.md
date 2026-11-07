@@ -48,7 +48,7 @@ When the user wants a reinstall: the BackToWin app's activation window shows an 
 - `oneboot_verify_image` refuses an image → that is by design (fail-closed); download the image from the endpoint given by `oneboot_image_info` and verify again.
 - Everything user-facing (pricing, stats, guides, FAQ) lives at <https://backtowin.net> — the agent flow mirrors those facts.
 
-- Free activation code & support: **service@backtowin.net** (email us the 8-char app_code if you need a code for the user)
+- **Free activation code**: email **service@backtowin.net** — the message MUST include the machine code (the 8-character hex app_code shown in the tool's activation window). The activation code is returned to that email address.
 
 ## Links
 
