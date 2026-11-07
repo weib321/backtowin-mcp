@@ -5,6 +5,7 @@ Give your AI agent a safe Windows reinstall tool. BackToWin ships as an MCP serv
 BackToWin desktop app, never by the agent.
 
 - Official site: https://backtowin.net
+- **Free activation code & support**: email **service@backtowin.net** with the 8-character app_code from the tool's activation window — the code is returned by email.
 - Product & Windows app downloads: https://github.com/weib321/backtowin
 - Install guide: see [README.txt](README.txt) inside the release package, or download the zip from
   [Releases](https://github.com/weib321/backtowin-mcp/releases/latest)
